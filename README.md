@@ -1,1 +1,2 @@
-[Studio](https://education.launchcode.org/intro-to-professional-web-dev/chapters/loops/studio.html)
+# Chapter 2.2: Loops
+## Solution code for the In-Class Homework - Loops
